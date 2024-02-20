@@ -2,7 +2,7 @@
 
 ## v2 changes
 
-`TornadoTrees.sol` is no longer part of this project. It migrated to [tornado-trees](https://github.com/tornadocash/tornado-trees)
+`TornadoTrees.sol` is no longer part of this project. It migrated to [tornado-trees](https://github.com/tornadocashdev/tornado-trees)
 
 ## Dependencies
 
